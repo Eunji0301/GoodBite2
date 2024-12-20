@@ -6,7 +6,11 @@
 </head>
 <body>
 <h1>
+<<<<<<< HEAD
 	Hello world!  
+=======
+	Hello2233322 world!  
+>>>>>>> refs/remotes/origin/main
 </h1>
 
 <P>  The time on the server is ${serverTime}. </P>
